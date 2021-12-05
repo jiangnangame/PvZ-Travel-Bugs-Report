@@ -10,15 +10,15 @@
     "9006e25ba0dafd90b0ead6330255c91f": "，可能是由于服务器卡顿导致的呢qwq，如果长时间停留在一个地方别忘了刷新哦，如果刷新多次依然不行，请反馈给程序员小姐姐w~",
     "51614e2ac9b3bddc2de3e70f99d1ef85": "QAQ出错了 错误内容：",
     "1c2c05dc9be9f9eeff4e51a682ef83cf": "\n如果对游戏有影响，请截图反馈给程序员小姐姐哦qwq",
-    "f427b60d5ebbc9803e4280ad3fd6d0d2": "Selecting this plant will increase the difficulty of this level, are you sure?",
+    "f427b60d5ebbc9803e4280ad3fd6d0d2": "Using this plant will increase the difficulty of this level, are you sure?",
     "00c476bb8b66c7a67826e7f6bd7ddff6": "Are you sure you want to bring Imitater only? It is not going to work at all.",
     "3704695fb154c4e95e674e48ce44fc7e": "Are you sure you don't want to bring any sun producers?",
     "96922b1b075633116839cab7596bdabc": [
         "<br>Cooldown time: ",
         "s<br>"
     ],
-    "135e553e11b9091c1734eedae69ea2d8": "Cannot be retrieved",
-    "79bde6e58345de367473b52d673913cb": "Cannot be selected",
+    "135e553e11b9091c1734eedae69ea2d8": " cannot be retrieved",
+    "79bde6e58345de367473b52d673913cb": " cannot be selected",
     "92282f25cd23e8f414a59d00089d25dd": " not recommended",
     "dba01bde7e595e8239e4ae4ff0d1687e": [
         "<br><span style=\"color:#F00\">Plant",
@@ -70,16 +70,16 @@
     "69bb04fa7223a2b52acc178b7e6a86c8": "While his brother Wall-nut was having a successful career at the bowling alley, Tall-nut was determined to defend the lawn. 'Never forget one's goal,' he said. 'Defending the lawn is our sole purpose.' Yet people gossip that the real reason of him not joining is that he's too square to roll...",
     "645fbcfb942862b717c502065c01e02d": "Sun-shroom",
     "5504ba167263f1dc8b85cdda1f2bd3cb": "Sun-shrooms give small sun at first, then normal sun later on",
-    "d9993fdd9804eca521e21a1bac6895f0": "有植物向她请教：使她随时保持萌态并永远有着蒙娜丽莎般的微笑的秘诀是什么？阳光菇甜甜地回答道：“只要心灵阳光，不管是面对漫漫黑夜，还是目睹丧尸围攻，都可以永远有着阳光般的心态与笑容。”。这时，从植群里传来声音：“你不是特别讨厌阳光，身子里有一点点，就恨不得全吐出来的吗？”",
+    "d9993fdd9804eca521e21a1bac6895f0": "Some plants asked Sun-shroom how she's able to keep her cuteness and Mona Lisa-like smile all the time. 'As long as you have a bright attitude, no matter day or night, or during zombie invasions, you'll always keep a sunny mind and smile.' Sun-shroom answered sweetly. Suddenly, a voice comes from someone among the plants. 'I thought you hate sun so much that you immediately spit it out the moment it builds up inside you.'",
     "d9a1489086ec7541226dfa802aa5e231": "Puff-shroom",
     "e77edb8526e6623fc2f8156b62da1291": "A free plant that shoots short-ranged spores at enemies",
     "52a16adb21e5b9edfc14d6bfc9a8f5e8": "“有人说，我很懒，懒得只能喷那么点距离。”小喷菇严肃地说，“我只想说，再说我懒的话，我就消失给你看，我还要江南，做个保护可以消失的我的关卡，把你坑个昏天黑地，等着……”",
     "3e7789b2d0491928c8fb8afd42bf2a15": "Scaredy-shroom",
     "b8d9cff9fe193e98f88d879c404301cf": "Long-ranged shooter that hides when enemies get near it",
-    "e3f388a18b754fab4f9c4169cf00aa1a": "也许，他是故作胆小，只是为了和阳光菇菇凉挤在一张床上就寝。或者，他是真的胆小，一旦有什么东西向他靠近，他便会四处躲窜。可能，他需要的，只是距离。",
+    "e3f388a18b754fab4f9c4169cf00aa1a": "Maybe he was only pretending to be a scaredy guy so he could sleep with Sun-shroom. Or maybe, he is actually scaredy and hides whenever something comes close. He probably just needs some distance.",
     "aa6448bef6b81aad002c9ac426dfbdb1": "Fume-shroom",
     "44a62cfd6bb8bc2f2f307ac5dfe36cc3": "Shoot fumes that can pass through shields",
-    "c71dee1b6e538e2a871aef7064797bcf": "自从飞旋萝卜学会了穿弹术后，大喷菇就逐渐淡出了战场。他在禅境花园里深修佛法，学习瑜伽，培养花鸟鱼虫，练习琴棋书画......“我的心里从未如此平静，阿弥陀佛~”大喷菇淡淡地说道。这时，植群里突然传来一声“气球菇！”，而后，一块砖头便向植群飞了过去！",
+    "c71dee1b6e538e2a871aef7064797bcf": "Ever since Rotoradish has learnt how to fire piercing projectiles, Fume-shroom is seen less and less on the battlefield. In the Zen Garden, he studies buddhism, practices yoga, keeps flowers and birds, reads, draws etc. 'I've never felt so calm. Amitābha.' says Fume-shroom in a calm tone. Suddenly, someone among the plants yelled 'Balloon-shroom!' and then a brick flew towards the plants out of nowhere!",
     "e2ff22b02098fc48fa13a8f23d28e2b0": "Spore-shroom",
     "4143fa13d2bf5df305b5184dd3981f08": "Summon Puff-shroom guards around it, while actively attacking zombies",
     "1e23506eeaf5eafe707891748fd86ee0": "孢子菇十分时尚，他一直走在时尚的前沿。他是植物界将Hip-hop，Rap与重金属三个音乐完美融合在一起的第一植。时尚的作风使孢子菇的植气扶摇直上，以至于他周围经常会包围着一圈忠实的脑残粉。",
@@ -99,7 +99,7 @@
     "4230969ff4e939f2b8e25676cc20d96d": "Befrozenia",
     "df2ba9c2190c4926a41e7e1ce52a6693": "Can fill in ice holes. If planted on flat surface, it will become a defensive meatshield.",
     "45a3b6e4b4af243eaa8827a6aa08886b": "挨炮一再声明，虽然冰封海棠从科学的角度来说是苹果属，但它与挨炮无半毛钱关系。对此，冰封海棠回《七步诗》一首。",
-    "5e4dea72f493b118ada9d61674cf42a4": "Crystaloe",
+    "5e4dea72f493b118ada9d61674cf42a4": "Winter Aloe",
     "ee08274dbe62b5dd6d0fe6e98cec5528": "Deliver heavy chilling splash damage to the last zombie on its lane",
     "84ceed6f58e8998a586f16e9975c5aeb": "外植听到这个名字，总会觉得这是个外表好冷内心歹毒的家伙。但其实，冰冻芦荟是治愈系的，每当植们受伤，无论是身体还是心灵，她总是第一个出现去帮助植物们，一看见她看似高冷却流淌着温柔的脸庞，植物们总会……担心自己钱包里的钱不够付她的医药费。",
     "4de60d984065c35547d0aa942084c5ab": "Peppercopter",
@@ -207,9 +207,9 @@
     "2f63b862c7933782f2f7a670270163e0": "If you have never played another version of PvZ, or would like to learn about the origin of the plot for this game. Please click <确定> to enter the newbie tutorial.",
     "01ee3eaedf73df61bd2466b96a4bb1eb": "<div class=\"OMd0\"><div class=\"OMd1\"><div><input type=\"checkbox\" id=\"cAutoSun\" value=\"1\" onclick=\"PlayAudio('click3');TongbuShezhi(1);\" onchange=\"CheckAutoSun(this)\" class=\"chk\"><label for=\"cAutoSun\" id=\"lAutoSun\">Auto-collect Sun</label></div><div><input type=\"checkbox\" id=\"cSilence\" value=\"1\" onclick=\"PlayAudio('click3');TongbuShezhi(1);\" onchange=\"CheckSilence(this)\" class=\"chk\"><label for=\"cSilence\" id=\"lSilence\">Mute</label></div></div></div><div class=\"BigLevel button\" id='playAgain'>Restart</div><div class=\"BigLevel button\" id='comeHome'>Quit</div><input class=\"OptionsMenuButton\" onclick=\"oMenu.close()\" type=\"button\" id=\"button\">",
     "399a17b3b7a2d11c988efaf0ef0811f2": "<div class=\"OMd1\"><div><input type=\"checkbox\" id=\"cAutoSun2\" value=\"1\" onClick=\"PlayAudio('click3');TongbuShezhi(0);\" onchange=\"CheckAutoSun(this)\" class=\"chk\"><label for=\"cAutoSun\" id=\"lAutoSun\">Auto-collect Sun</label></div><div><input type=\"checkbox\" id=\"cSilence2\" value=\"1\" onClick=\"PlayAudio('click3');TongbuShezhi(0);\" onChange=\"CheckSilence(this)\" class=\"chk\"><label for=\"cSilence\" id=\"lSilence\">Mute</label></div><div><input type=\"checkbox\" id=\"cCursor\" value=\"1\" onClick=\"PlayAudio('click3');\" onChange=\"CheckCursor(this)\" class=\"chk\"><label for=\"cCursor\" id=\"lCursor\">Use game's cursor</label></div><div><input type=\"checkbox\" id=\"cCoolType\" value=\"1\" onClick=\"PlayAudio('click3');\" onChange=\"if(!Number(localStorage.JNG_TR_COOLTEXT)){localStorage.JNG_TR_COOLTEXT=1;}else{localStorage.JNG_TR_COOLTEXT=0;}\" class=\"chk\"><label for=\"cCoolType\" id=\"lCoolType\">Text-based Cooldown</label></div></div><br/><br/><div class=\"ShowSpeed\" onclick=\"ShowSpeed(),HiddenKuaiShe(),PlayAudio(&quot;pause&quot;),SetBlock($(&quot;shade&quot;))\">Speed Control</div><input class=\"jngButton OptionsMenuButton Close\" onclick=\"HiddenKuaiShe(),PlayAudio(&quot;Close&quot;)\" type=\"button\">",
-    "95d001bcead770c985b0a185c2599b35": "Achievements",
+    "95d001bcead770c985b0a185c2599b35": "Unlocked",
     "02717ef3f8b4f0a331beec2c48bb8959": [
-        "Unlock",
+        "Achievement ",
         "："
     ],
     "ffe1964b3aa8bf43dcf2606a661b76d0": "New Journey",
@@ -365,16 +365,16 @@
     "b7498869d5c1e11a79bbb8e35440c415": "Wall-nut Bowling: Use Wall-nuts and other plants to defeat zombies!\n Tip: Plants die when they're rolled over by Wall-nuts!",
     "0b6b6890d27d87b1fab0ae31f02802fe": "Place the plant to the left of the bowling line!",
     "864111d92028265478f755b078fe1bf1": [
-        "Chinese New Year Challenge"
+        "Chinese New Year Challenge "
     ],
     "47b8fbd8631992bb027d4df6763785fc": [
-        "Chinese New Year Challenge"
+        "Chinese New Year Challenge "
     ],
     "1e30abcf234d31cdd13ec8158bb3f4c6": [
-        "Chinese New Year Challenge"
+        "Chinese New Year Challenge "
     ],
     "f2a0358f52387aa3bb25e136eac54322": [
-        "Chinese New Year Challenge"
+        "Chinese New Year Challenge "
     ],
     "d1aedb481cf4bd6e610132b88fabd0e3": "Daily Challenge",
     "b66e38f87670e3de0d0c2e1908b16f5e": "Birds' Forest Day 1",
@@ -599,9 +599,9 @@
     "934e10a68fe32d0165106c2e4b637e2c": "[程序启动]取消戴夫与僵王对这里的访问权限。",
     "14bf2bc115443894f499498b460bb4ea": "够了......够磨叽了",
     "d6b30ec5d29a596214187d6231cb94b4": "我们来速战速决吧，邻居。不管你是谁。",
-    "e7ac5cbd946a6986cb699249ac190ad1": "Achievement",
+    "e7ac5cbd946a6986cb699249ac190ad1": "Unlocked",
     "dd23d9d1475d4011e596fa1893b52cbe": [
-        "Unlocked",
+        "Achievement ",
         "："
     ],
     "a74bcd48f2889938256b0f54806bfd08": "冰海棠的假日",
@@ -888,7 +888,7 @@
     "272f2d20c95f63091086dca4b20f6ce2": "在游戏彻底落尘，我们彻底消失之前...来一场治愈人心的“旅行”吧",
     "200d8a50253b13898747d98dd368f673": "大干一场吧，邻居",
     "d81195782e76b39c0fc48654a52ff1cc": "[已将该段内容录制存档]",
-    "f4d4a8011ca91b175cb658e3b2a3d549": "Selecting a plant will increase the difficulty of the level!",
+    "f4d4a8011ca91b175cb658e3b2a3d549": "Carrying a plant in your deck will increase the difficulty of the level!",
     "74630112331750fefaa6a4adfad4afb8": "Star",
     "6c5623622ed010aaa023337e314563e7": "Stars are the symbol of success. Go ahead and collect more stars!",
     "afbde02b65e29e87e030d620f2223778": "Foggy City Day 25",
@@ -1441,8 +1441,8 @@
     "bd5d7e23ba8148a1294224de6ff1dbca": "我们，继续游戏。",
     "c18d44ab20e36478a76fb25b27b041bf": "或者说，游戏，开始。",
     "efe247e323430e5c39e747debb284893": "［已关闭管理员监听权限］",
-    "4811db7b335401f5d65303fb574c7e17": "该植物首次种植优惠哦！",
-    "5acebb947e0a0060df8b6edcd517eb51": "赶紧把它种下吧！",
+    "4811db7b335401f5d65303fb574c7e17": "Lower cost for the first use of this plant!",
+    "5acebb947e0a0060df8b6edcd517eb51": "Plant it quickly!",
     "4744f7bbd137f165c35ee9347caf43d5": "Brain in a Vat",
     "8157fa7659757f7bc2eb4adbb2f566d4": "How can you guarantee that you are not in this predicament?",
     "4e020436f5e61939d62c6f60897fe2e7": "Aurora Icefield Night 20 - Mirror",
@@ -1734,7 +1734,7 @@
     "2b84880b0da17eced6f5a0725c2c5311": "Plant at least 3 Sunflowers!",
     "769ffd8e389b473282fb12ad0c9be63f": "My House Day 3",
     "9529615ba5b8f93e4a729efef52e2cc5": "Use the Shovel on those Aipois to dig them up!",
-    "91245b4d600dcf78b34dd2abac53fd77": "Click the Shovel to dig up the plant!",
+    "91245b4d600dcf78b34dd2abac53fd77": "Hover it on the plant and click to dig it up!",
     "921855d5ab3a35dba7dd67b9ec45611c": "Keep digging until the lawn is clear!",
     "4a79340a9b123e2e4aeb1e49992affb6": "My House Day 4",
     "b6d61bf49eed9c3521d74f7bd20b422f": "哦，伙计。",
@@ -2124,7 +2124,7 @@
     "492f7d2f28e7b86404312641bcaadd2a": "Bowling Wall-nut",
     "3f3193e1e4a78cf946f7b7fe49f1dbda": "Explode-o-nut",
     "953b1f36b10de8f0e19c362171d5675d": "Befrozenia",
-    "d52cb285c1fbf41c6303de4a108186e1": "Crystaloe",
+    "d52cb285c1fbf41c6303de4a108186e1": "Winter Aloe",
     "a009607a8e6a8edef33bccfd761c1fc4": "Peppercopter",
     "c225e5ad1bf069de35321de340aed1b5": "Imitater",
     "2479c4ee2bebe6b2f73b0cc52425cdf0": "Solartropa",
