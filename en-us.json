@@ -2163,7 +2163,7 @@
         "{\n    //记录关卡名，function统计数据需要用\n    $User.FanmadeLevelName=\""
     ],
     "98338dd296217f2d79737df441c76ab5": "No plants/zombies selected yet!",
-    "e6111b2ffbd6ccbbc574425201f1d290": "Display No.: No. of zombies shown during seed selection\nWave No.: Where the zombie appears for the first time\nFixed Wave No.: Where the zombie must appear (Separate waves with half-width commas)",
+    "e6111b2ffbd6ccbbc574425201f1d290": "Display No.: No. of zombies shown during seed selection\nWave No.: Where the zombie appears for the first time\nFixed Wave No.: Where the zombie must appear (Separate waves with commas)",
     "44d4c5fbe7c6f6a77275e90e7b98896e": "<span>Total No. of Waves:</span><input onclick=\"this.focus();\" style=\"padding-left:15px;border:0;border-radius:14px;width:50px\" id=\"FlagNumInput\" /><br/>",
     "c65dc7e9ffd90693e3efff03a9d2140e": "<tr><th>Zombie Type&nbsp;&nbsp;</th><th>Display No.</th><th>Wave No.</th><th>Fixed Wave No.</th></tr>",
     "d9a603941a2875281d87951f4c8e3700": "Preview ",
