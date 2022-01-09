@@ -69,7 +69,7 @@
     "8bfca4490c95e22d90220d294f044029": "Cooldown Reduction - Cherry Bomb",
     "7d826824ccd184f6a2a2ba3d29445b82": "Blows up all zombies in an area.<br>Enhancement: cooldown reduced.",
     "92450412f3a53b32e1e62fc67db4c12f": "Tall-nut",
-    "4fa673f4f48306fac9cb5e7742c238d7": "A heavy-duty wall that can't be vaulted or jumped over",
+    "4fa673f4f48306fac9cb5e7742c238d7": "A heavy-duty wall that blocks low flying zombies.",
     "69bb04fa7223a2b52acc178b7e6a86c8": "While his brother Wall-nut was having a successful career at the bowling alley, Tall-nut was determined to defend the lawn. 'Never forget one's goal,' he said. 'Defending the lawn is our sole purpose.' Yet people gossip that the real reason of him not joining is that he's too square to roll...",
     "645fbcfb942862b717c502065c01e02d": "Sun-shroom",
     "5504ba167263f1dc8b85cdda1f2bd3cb": "Sun-shrooms give small sun at first, then normal sun later on",
@@ -222,7 +222,7 @@
     "95d001bcead770c985b0a185c2599b35": "Unlocked",
     "02717ef3f8b4f0a331beec2c48bb8959": [
         "Achievement ",
-        "："
+        ":"
     ],
     "ffe1964b3aa8bf43dcf2606a661b76d0": "New Journey",
     "b3a263cb218e4a6508409545054ee1a3": "Starry Night",
@@ -1559,7 +1559,7 @@
     "11435069a3f630e78daeec6b6e51375a": "You will lose the level if you click it 20 times!",
     "9be082d54c79da9bf62f467594da7468": "Hidden Achievement Unlocked: The Stanley Parable",
     "ffdfdd94c0e88bc35e76961ebb718578": "You clicked the screen... But nobody came",
-    "9acd754957e69494addbe2bf2cf4ff43": "This is an abandoned level so like, we haven't compiled the code for shoveling land",
+    "9acd754957e69494addbe2bf2cf4ff43": "It's abandoned level, we haven't compiled the code for shoveling land",
     "6c9f5f79439db9f5dc9366904000e32e": "Oh, it's just a Zomboni",
     "b145f6b1e58ba41fb41fb9d1a188d60a": "You clicked the screen... but there isn't anyone other than this Zomboni",
     "e53b79825ef51de09c137a37b98a3a36": "Aurora Icefield Day 4",
