@@ -391,7 +391,7 @@
     "7bb50731e395d43a90d0ebad301565c7": "Mission: Plant Defense! Defend 4 Wall-nuts to the end of the level to pass. \nBut... can you do it?",
     "3e64d5be19b945709de8811040c33451": "你 个 变 态",
     "65b4dabee420a6a399e84411b7a92f42": "Chinese New Year 2021 - ",
-    "42d07a5bb736daf54cf148d245a12ab4": "Chinese New Year 2022 - Day",
+    "42d07a5bb736daf54cf148d245a12ab4": "Chinese New Year 2022 - Day ",
     "47fb6b941843b25fcb22fb4a6105e47a": "",
     "011cf12e1715c9f023627279f702e3dc": "Chinese New Year Challenge - 3",
     "a5bcf9c2a7909c5a2dc72414f953c56b": "这就是最后的一天了",
@@ -2176,28 +2176,28 @@
     "428ebea489fde4c7f59508f3b557a356": "25 waves",
     "18b5fba85334ebad5a3c37d275d7eb8b": "Aurora Icefield Night 30",
     "554c7d0b5974ca39b7b4d462c45bab1c": "Boss Battle",
-    "aeae171183895fe7ae5a0bc0926b20ec": "极高",
-    "3405f2ff186476839537048606e34a36": "高",
-    "415b5fda854907d4f561e5448369dacd": "中等",
-    "30af3c819abc33f89c3702b86711a56b": "低",
-    "3c39d9a196dbe95f8c3d5329bc73ae07": "极低",
+    "aeae171183895fe7ae5a0bc0926b20ec": "Very high",
+    "3405f2ff186476839537048606e34a36": "High",
+    "415b5fda854907d4f561e5448369dacd": "Medium",
+    "30af3c819abc33f89c3702b86711a56b": "Low",
+    "3c39d9a196dbe95f8c3d5329bc73ae07": "Very low",
     "9d5ded831c3c2a4640789fd9d8371713": [
-        "\n血量：",
-        "\n速度：",
-        "\n弱点："
+        "\nToughness: ",
+        "\nSpeed: ",
+        "\nWeakness: "
     ],
     "1053e54496b6f2d5e97bf1bddef8ce51": [
-        "阳光：",
-        "\n冷却时间：",
-        "秒\n"
+        "Sun cost: ",
+        "\nCooldown: ",
+        "s\n"
     ],
     "471a9a069f8db35a5ab6a5c3d0eeec73": [
-        "功能："
+        "Features: "
     ],
     "b9a3a80807b6551a56091433d9da9253": [
-        "\n            \n小故事："
+        "\n            \nFlavor text: "
     ],
-    "ef1730a0047f98ccd96842bbbae04d6b": "无",
+    "ef1730a0047f98ccd96842bbbae04d6b": "None",
     "7864d9130973f29c09d1550320897e47": "Flowers",
     "9c694aca36cebb9b2d5b126aab9e3a5c": "Mold colonies",
     "c4b382f9425ab4b9c0b1cfec182857c5": "New verification system: The level creator must pass their level within 12 hours after uploading it, or the level will be deleted!",
@@ -2266,7 +2266,7 @@
     ],
     "c23acc07c3bad94c2a4b284090e9585c": "<br/><span style=\"color:red\">Selected</span>",
     "a5ee3b9a7a28051007336cf0e277e744": [
-        "<br>Health: "
+        "<br>Toughness: "
     ],
     "bb62c61b7bcb54a931cd1e0861b8403c": [
         "{\n    //记录关卡名，function统计数据需要用\n    $User.FanmadeLevelName=\""
