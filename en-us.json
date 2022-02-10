@@ -1,5 +1,5 @@
 {
-    "0bc45b92bb476cbce5a3a92c5d0a6c15": "Debug menu temporarily unavailable",
+    "0bc45b92bb476cbce5a3a92c5d0a6c15": "Cheat menu temporarily unavailable",
     "74d1bb3bb02a499f662942b0b04c05b4": "(ﾟ⊿ﾟ)ﾂ",
     "3d24cfddcaa42d351527eeec00a1c54f": "An error has occured!",
     "9f632dc91ec799f06b45e6410890a50e": "Can't move...",
@@ -344,7 +344,7 @@
     "8381a1115c1cda762fec560f899746b8": "Skill Tournament",
     "9bba84af0e93ba4c98b9b88b9bf33336": "Welcome to the Skill Tournament, where each day there will be a challenge for an Adventure level. The score leaderboard will be displayed here.",
     "ca8b74cee4813f817b1c4e1c5516bdb7": "GAME START",
-    "d00ffd8356dd036171a83888f8194061": "Girls are now praying...\n\n(Loading..)",
+    "d00ffd8356dd036171a83888f8194061": "Detecting skill issue...\n\n(Loading..)",
     "1a8f5e7d529220df9dd4caa60964076b": "Rank",
     "bd946132594386529aee9cf727b65707": "Player",
     "dd07bd12bae6c08cf7c57dd301ee976c": "Difficulty",
@@ -2317,7 +2317,7 @@
     "376b8aa0df2d790f0d992f3d4f3cb1e5": "Spawn points are filled in incorrectly!",
     "ce087f8252f722e7a98713e9db8b3b97": "Spawn point data is empty!",
     "4b4c8074041a6bc1edf2edcae3e4f6c1": "The level filename is not filled in or is in the wrong format!\n(Extension name is not included in the filename)",
-    "24359f4cabceee71f04bd618b658aa4d": "Girls are now praying...\n\n(Uploading..)",
+    "24359f4cabceee71f04bd618b658aa4d": "Criticizing your kaizo level...\n\n(Uploading..)",
     "d2bf862f9cb60099d8b6c5d035d452e8": "Enter level name: ",
     "1f42a2030276ff6eb025d722bdd43dd8": " Search",
     "db417f4c8f45e527e2bfa58ef9cb4319": "<br/>Already at the end owo~",
@@ -2325,7 +2325,7 @@
     "c528dfa9111e0398a15bbc7bdc3b6144": "Creation Time",
     "45d476b1a056e4b4175cf5831ac50e80": "Difficulty",
     "7e896cc5763abddcad4f284f74c05ab0": "Clear Rate",
-    "17af83f14e1c8089505e718d8f3c0924": "Girls are now praying...\n\n(Loading..)",
+    "17af83f14e1c8089505e718d8f3c0924": "Advertising ELM (voluntarily)...\n\n(Loading..)",
     "b4b8eac4602c77f66c605d71210d58d2": [
         "Are you sure you want to delete “",
         "”?"
