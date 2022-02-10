@@ -228,7 +228,7 @@
     "95d001bcead770c985b0a185c2599b35": "Unlocked",
     "02717ef3f8b4f0a331beec2c48bb8959": [
         "Achievement ",
-        ":"
+        ": "
     ],
     "ffe1964b3aa8bf43dcf2606a661b76d0": "New Journey",
     "b3a263cb218e4a6508409545054ee1a3": "Starry Night",
@@ -2349,17 +2349,17 @@
     "69f72bc50e7a18bf3c6dd615b11f30c4": "Programming - 蓝色的黑钻 PAK向日葵 AS",
     "13d41d4db444757b80a8c73136475322": "Graphics - Aipoi",
     "5c399c2d02fa020d2e3a1df40f430453": "Special Thanks - Leobai 星光风铃叶 支付",
-    "e32ffd9a638a5b234b4dddaeb345d04c": "道具槽——樱桃炸弹\n（有效期3天）",
-    "508ab466a120ff0ec84fc420d16faab6": "提供一个额外的炸弹帮你消灭僵尸，免费赠送3次",
-    "1addf2d6896a3631192c19ba55b768d0": "提供一个额外的炸弹帮你消灭僵尸，免费赠送10次",
-    "8996abd08d98c7fc680fd26d7a5fca81": "你没有足够的金币！",
+    "e32ffd9a638a5b234b4dddaeb345d04c": "Item Slot - Cherry Bomb\n(Lasts 3 days)",
+    "508ab466a120ff0ec84fc420d16faab6": "Provides an extra Cherry Bomb to help you destroy zombies, first 3 times free",
+    "1addf2d6896a3631192c19ba55b768d0": "Provides an extra Cherry Bomb to help you destroy zombies, first 10 times free",
+    "8996abd08d98c7fc680fd26d7a5fca81": "You don't have enough gold coins!",
     "39d0bba609e9be0b1b6c2a7a4ccf6bdf": [
-        "已有",
-        "个\n"
+        "Owned ",
+        "\n"
     ],
     "e2848fb1c512d92fd0fc31d8e84116ae": [
-        "剩余 ",
-        " 天"
+        "",
+        " days remaining"
     ],
-    "083f4d464434f4d2811e94f1b297406d": "道具槽已满三个！"
+    "083f4d464434f4d2811e94f1b297406d": "Item slot full, maximum 3 items."
 }
