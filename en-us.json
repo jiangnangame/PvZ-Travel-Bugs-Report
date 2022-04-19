@@ -25,7 +25,7 @@
         "!</span>"
     ],
     "60f4d5ce5a7d1c085bcb9bf3ea0f270b": "<br><span style=\"color:#F00\">Recharging...</span>",
-    "265c95596108d197ad7452b4b2b3ff82": "<br><span style=\"color:#F00\">You don't have enough sun!</span>",
+    "265c95596108d197ad7452b4b2b3ff82": "<br><span style=\"color:#F00\">Not enough sun!</span>",
     "cb0606394a07800fcae8c2ff27751b9a": "Restart",
     "6e728824a27399b6bc583c5a41e20134": "Quit",
     "38ec56cabcb703dc74c6da5306abb571": [
@@ -1755,8 +1755,8 @@
     "dee7cec3df9a84b62f8bee5837134c02": "You're not making any sense!",
     "e82f33f85ced2213d2c589a7302890fb": "What are you trying to do? No wait...",
     "0967a0ef21fcb7492eefb7f7946d8330": "Why are you even here anyway?",
-    "b46ae52663eea956f05be012d962cc49": "I don't know.",
-    "0f55c35db3356f8635edef260bc6c3f9": "I really don't know. I'm sorry.",
+    "b46ae52663eea956f05be012d962cc49": "Honestly, I'm as clueless as you are.",
+    "0f55c35db3356f8635edef260bc6c3f9": "Ugh, why did it turn out like this...",
     "08b0c4ab5f5706f24dd0ea3b42e423ab": "Too many inexplicable things happen one after another... I don't even know\nwhat's going on.",
     "5f423cec102314a617f2a381324357a2": "If I had noticed it earlier, I'd have...",
     "a08afd5c1bd2e606feb93136bf60af1f": "I just wanted him to be okay...",
