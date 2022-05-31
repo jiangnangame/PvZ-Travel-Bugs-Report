@@ -474,7 +474,7 @@
     "349d9418fff143badf37a58af175cda0": "Mold colonies",
     "2d7f29f184c7df621dd774b613d3848d": "Cannot be planted on.",
     "94ef0a1d6af3f6429a39c8c6463c4b0a": "Endangered tile",
-    "68f3ad3f1d029a175ae65a7512c0637c": "Must be placed under a plant. If the plant on it gets eaten, instantly fail the level.",
+    "68f3ad3f1d029a175ae65a7512c0637c": "Must be placed under a plant. If the plant on it is lost, instantly fail the level.",
     "6470761a997056e247a10bf6df8fffb1": "Ice hole",
     "84e71a6cb93dd98dd9bd87d25f39a5da": "Temporarily unplantable tile that disappears over time.",
     "8c9c1baca6f61c4874d4b276c6b176a0": "Statue",
