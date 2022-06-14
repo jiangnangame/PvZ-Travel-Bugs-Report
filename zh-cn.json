@@ -233,7 +233,7 @@
     "a2e1d2c7d6423e6d6655f08cab47fc65": "2020年春节活动",
     "81d00a765d1b54026813028ae1692ba7": "推出时间：2020.1",
     "c8c015f73a0b857fe87d36adc47c92c2": "关卡数：15个",
-    "2d8f218336a6fb144147bd067663a407": "恭喜你，玩通啦！n你要去哪个关卡",
+    "7d179c064b8e74e4d1b2f768401a6ec6": "恭喜你，玩通啦！\n你要去哪个关卡",
     "bb68d0fd8c099e8670c8992dda22028a": "<br/><br/><input id='Fnumber' type='text' onclick=\"this.focus()\" onkeyup=\"(_=>{value = Math.max(1,Math.min(15,Number.parseInt(value.replace(/[^0-9]/g,''))));value=(isNaN(value)?'':value);})();\" placeholder=\"关卡的阿拉伯数字\" style='text-align:center;padding-bottom:12px;padding-top:12px;border:1px;border-radius:25px;'/>",
     "ef5cd7b9c3b351ce8c71222cafcdd86e": "2021年春节活动",
     "3d0b1052404338909600ded23e4656bf": "推出时间：2021.2",
