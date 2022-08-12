@@ -533,7 +533,7 @@
         "s<br>"
     ],
     "6133f8249bcc32fdacb6be267baf8fc9": "<br/><span style=\"color:red\">Selected</span>",
-    "2a81e9f260bb55bda836e57f1cf1a47e": "<br/><span style=\"color:red\">已锁定</span>",
+    "2a81e9f260bb55bda836e57f1cf1a47e": "<br/><span style=\"color:red\">Locked</span>",
     "b860cfb49e8e12426b078ac9096a7c21": "Toughness: ",
     "7bd3da6a81b9b4115c1f60ada174e196": "<br />Default Weight: ",
     "84322a14ab85fccc3ff0fd454c7f5436": "Current wave:",
@@ -591,8 +591,8 @@
     "42d17f71a47af78a393de38b2c64335b": ": ",
     "f652e0e8b12ac452f946859196e4ca89": "Enter an integer",
     "356b5d28fd259feedad108fc9aa3d0c3": "\n(Not available for offline users)",
-    "0e220262a2645919da501a8267a5d3f5": "（长按自己的关卡以删除）",
-    "6c40fc9695242050a5c7533f1fbe5f23": "（右击自己的关卡以删除）",
+    "0e220262a2645919da501a8267a5d3f5": "\n(Long press your level to delete it)",
+    "6c40fc9695242050a5c7533f1fbe5f23": "\n(Right-click your level to delete it)",
     "a26b100f0c13c36944cd27c0f1c01711": "After creating your level, load it from your files or archive, then clear it to upload and share with everyone!",
     "d56785271c733adf3f1b62f865e6323c": "Open file",
     "11e815aa1bd46d8a5bb4187167547f83": "New level",
@@ -608,10 +608,10 @@
     "e63c0c832daae2c0f9109d8bcfd79937": "Difficulty",
     "7033bf895757c6c4518a64498ebfe98a": "Clear Rate",
     "cf18d0f452a2432da54ef45ce8833df5": [
-        "确定要删除关卡“",
-        "”吗？"
+        "Are you sure you want to delete “",
+        "”?"
     ],
-    "35739477d5aebf48100791b5aa44110b": "关卡删除成功！",
+    "35739477d5aebf48100791b5aa44110b": "Level deleted successfully!",
     "f7935bba4b1e5291882f9f258045a454": "-",
     "3544f36bff8be42117c43aec2f520eea": "Basic",
     "3b94266c4e7039e6f38a1c38ac070f22": "Easy",
